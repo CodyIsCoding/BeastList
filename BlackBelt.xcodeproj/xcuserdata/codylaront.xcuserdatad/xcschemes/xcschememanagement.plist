@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>BlackBelt.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>285BE0581DDF6D4700DF3A4F</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>285BE06C1DDF6D4700DF3A4F</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>285BE0771DDF6D4700DF3A4F</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
